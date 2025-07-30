@@ -1,4 +1,4 @@
-# AI Fitness Coach 🏃‍♀️🤖
+# AI Fitness Coach 
 
 An intelligent coaching system that analyzes Apple Watch fitness data to generate personalized training plans and nutrition recommendations using AI.
 
